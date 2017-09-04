@@ -39,7 +39,8 @@
   "externally_connectable": {
     "matches": [
       "*://tkg.io/*",
-      "*://*.tkg.io/*"
+      "*://*.tkg.io/*",
+      "*://tkg.hackqiang.org/*"
     ]
   }
 }
