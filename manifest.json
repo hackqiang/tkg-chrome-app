@@ -41,8 +41,7 @@
       "*://tkg.io/*",
       "*://*.tkg.io/*",
       "*://tkg.hackqiang.org/*",
-      "*://xfactory.top*",
-      "*://*.xfactory.top*"
+      "*://xfactory.top/*"
     ]
   }
 }
