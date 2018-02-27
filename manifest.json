@@ -40,7 +40,7 @@
     "matches": [
       "*://tkg.io/*",
       "*://*.tkg.io/*",
-      "*://tkg.hackqiang.org/*",
+      "*://*.hackqiang.org/*",
       "*://xfactory.top/*"
     ]
   }
